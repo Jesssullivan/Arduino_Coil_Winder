@@ -1,6 +1,7 @@
 # Arduino_Coil_Winder
 
-Use an Arduino for coil winding.  Common projects that require coils include custom step / power transformers, guitar pickups, and motors.  This repo has been spurred by Occupy Cars “BORGI” motor R&D (https://community.occupycars.com/).  
+Use an Arduino for coil winding.  Common projects that require coils include custom step / power transformers, guitar pickups, and motors.  
+This repo has been spurred by Occupy Cars “BORGI” motor R&D (https://community.occupycars.com/).  
 
 Current hardware:
 
