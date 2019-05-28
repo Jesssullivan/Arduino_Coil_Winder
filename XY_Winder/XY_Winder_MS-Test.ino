@@ -34,9 +34,9 @@ const float reduction = pitch / wire;
 const unsigned long ratio = rate * reduction;
 
 // add microstepping pin definitions
-#define M0 4
-#define M1 5
-#define M2 6
+#define M0 6
+#define M1 7
+#define M2 8
 
 void setup()
 {
