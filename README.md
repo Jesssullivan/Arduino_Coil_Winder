@@ -8,3 +8,6 @@ Current hardware:
 - Arduino Uno
 - 2x DRV8825 stepper drivers 
 - 2x NEMA 17 bipolar stepper motors
+
+![alt text](Sketches_Hardware/Annotated_XY_Layout_V1.png)
+
