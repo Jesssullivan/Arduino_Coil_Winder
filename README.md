@@ -9,7 +9,9 @@ Current hardware:
 - 2x DRV8825 stepper drivers 
 - 2x NEMA 17 bipolar stepper motors
 
-![alt text](Sketches_Hardware/Annotated_XY_Layout_V1.png)
-![alt text](Sketches_Hardware/V1_Assembled.png)
+# See /Sketches_Hardware for wiring and annotations
+
+![alt text](Sketches_Hardware/Wind_DryRun.GIF)
+
 
 
