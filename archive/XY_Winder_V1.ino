@@ -1,4 +1,4 @@
-X/*
+/*
    An Arduino sketch to wind a coil with two bipolar stepper motors
    Currently testing with DRV8825
    :)
